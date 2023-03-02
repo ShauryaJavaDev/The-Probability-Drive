@@ -7,7 +7,8 @@ It simply takes in a event , do some maths and shows you a totally random probab
 > * Total waste of time
 > * Sometimes shows good result which makes you positive
 > * Sometimes shows bad result which makes you just sad [ahh life].....
-# Some important points -  
+# Some important points -
+* Smartscreen might warn you , ignore it [still i am trying to sumbit it to microsoft for scan]
 * It requires a JRE 
 * U can save ur output , but for so to happen u have to exit from the ***EXIT*** button [it is red and located at bottom] . If u close it directly , it wont be saved {yeah cry 'bout it}
 * I made it all alone in 2 hrs , so dont expect high quality
