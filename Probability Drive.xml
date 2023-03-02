@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\PC\Documents\Probability drive.jar</jar>
+  <outfile>C:\Users\PC\Documents\Probability Drive.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\PC\Pictures\pd.ico</icon>
+  <singleInstance>
+    <mutexName>ProbabilityDrive</mutexName>
+    <windowTitle>ProbabilityDrive</windowTitle>
+  </singleInstance>
+  <jre>
+    <path>%JAVA_HOME%;%PATH%</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion>1.8.0</minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+  <versionInfo>
+    <fileVersion>0.0.0.9</fileVersion>
+    <txtFileVersion>0.0.0.9</txtFileVersion>
+    <fileDescription>Check probability of random events [its a random guess]</fileDescription>
+    <copyright>NIL</copyright>
+    <productVersion>0.0.0.9</productVersion>
+    <txtProductVersion>0.0.0.9</txtProductVersion>
+    <productName>Probability Drive</productName>
+    <companyName>NIL</companyName>
+    <internalName>PD</internalName>
+    <originalFilename>Probability Drive.exe</originalFilename>
+    <trademarks></trademarks>
+    <language>ENGLISH_US</language>
+  </versionInfo>
+</launch4jConfig>
