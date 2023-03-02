@@ -7,6 +7,11 @@ It simply takes in a event , do some maths and shows you a totally random probab
 > * Total waste of time
 > * Sometimes shows good result which makes you positive
 > * Sometimes shows bad result which makes you just sad [ahh life].....
+# Some important points -  
+* It requires a JRE 
+* U can save ur output , but for so to happen u have to exit from the ***EXIT*** button [it is red and located at bottom] . If u close it directly , it wont be saved {yeah cry 'bout it}
+* I made it all alone in 2 hrs , so dont expect high quality
+* none of probability shown is real , it just shows random numbers because random is fun [or i think so...]
 ## A challenge 
 > This is a challenge just 4 u ;-]
 Just try finding probability of output of my probability drive .
