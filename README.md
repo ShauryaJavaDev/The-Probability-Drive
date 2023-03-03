@@ -7,7 +7,7 @@ It simply takes in a event , do some maths and shows you a totally random probab
 > * Total waste of time
 > * Sometimes shows good result which makes you positive
 > * Sometimes shows bad result which makes you just sad [ahh life].....
-# CHROME MAY WARN YOU ABOUT MY FILE AS IT IS NOT COMMONLY DOWNLOADED [:-(], BUT ITS SAFE
+# CHROME MAY WARN YOU ABOUT MY FILE AS IT IS NOT COMMONLY DOWNLOADED [:-(], BUT ITS SAFE [ALSO IT IS APPROVED BY WINDOWS SMARTSCREEN (HURRAY!) , SO YOU CAN TRUST IT ]
 # Some important points -
 * It requires a JRE 
 * U can save ur output , but for so to happen u have to exit from the ***EXIT*** button [it is red and located at bottom] . If u close it directly , it wont be saved {yeah cry 'bout it}
