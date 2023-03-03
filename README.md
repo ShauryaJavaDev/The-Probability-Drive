@@ -7,9 +7,8 @@ It simply takes in a event , do some maths and shows you a totally random probab
 > * Total waste of time
 > * Sometimes shows good result which makes you positive
 > * Sometimes shows bad result which makes you just sad [ahh life].....
-# CHROME MAY WARN YOU ABOUT MY FILE AS IT IS NOT COMMONLY DOWNLOADED [:-(], BUT ITS SAFE [ALSO IT IS APPROVED BY WINDOWS SMARTSCREEN (HURRAY!) , SO YOU CAN TRUST IT ]
-![Screenshot 2023-03-03 085102](https://user-images.githubusercontent.com/86218838/222624080-6ccd8dea-e806-464f-a8ee-78a1c1573916.png)
-
+# CHROME MAY WARN YOU ABOUT MY FILE AS IT IS NOT COMMONLY DOWNLOADED [:-(], BUT ITS SAFE [ALSO IT IS APPROVED BY WINDOWS SMARTSCREEN as in screenshot below (HURRAY!) , SO YOU CAN TRUST IT ]
+![Screenshot 2023-03-03 085826](https://user-images.githubusercontent.com/86218838/222624617-7d626cf1-c8df-4c43-8928-91e612e9b40d.png)
 # Some important points -
 * It requires a JRE 
 * U can save ur output , but for so to happen u have to exit from the ***EXIT*** button [it is red and located at bottom] . If u close it directly , it wont be saved {yeah cry 'bout it}
